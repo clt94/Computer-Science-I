@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538193982 source:c:\users\360ga\desktop\school\comp sci i\prjct1\main.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+

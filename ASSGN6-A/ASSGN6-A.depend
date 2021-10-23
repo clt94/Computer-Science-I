@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1541609428 source:c:\users\360ga\desktop\school\comp sci i\assgn6-a\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+

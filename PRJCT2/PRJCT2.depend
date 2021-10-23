@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544051447 source:c:\users\360ga\desktop\school\comp sci i\prjct2\main.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	<cstdlib>
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
